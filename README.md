@@ -1,6 +1,7 @@
 # Hackntu_x_Cathay_2017
+* Thanks for everyone's attending!
 
-## introduction
+## introduction(pdf)
 * 資料介紹 
 * 方向建議與實作
 * 商業分析 
@@ -71,7 +72,7 @@ customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTA
 ### Spark 2.1
 ### node.js
 ### IDE
-#### subline, pycharm, rstudio
+#### sublime, pycharm, Rstudio
 
 ## other reference
 ### Credit Card 
